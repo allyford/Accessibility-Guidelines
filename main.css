@@ -1,0 +1,49 @@
+/* 
+Navigation Bar
+*/
+.topnav {
+    background-color: rgb(79, 124, 79);
+    width: fit-content;
+    overflow: hidden;
+
+}
+
+.topnav li {
+    display: inline;
+
+}
+
+.content p {
+    padding-left: 30px;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    letter-spacing: .05em;
+    border-color: black;
+
+
+}
+
+.topnav a:hover {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.example {
+    height: auto;
+    float: right;
+}
